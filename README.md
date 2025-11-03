@@ -8,7 +8,7 @@
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+virtual reality based lab
 
 <b>Name of Developer | <b> Ankur yadav
 :--|:--|
