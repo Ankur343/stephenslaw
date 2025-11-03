@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Computer sciencee
 :--|:--|
-<b> Lab | <b> computer science
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Nothing
+<b> Experiment|     <b> Build a VR scene of the experimental setup, including the thermopile and the radiating surface
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Ankur yadav
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> REC BANDA | <b>  
+<b> ankurn343@gmail.com|     <b>  
+<b> information technology |  
 
 ### Contributors List
 
